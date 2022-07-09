@@ -17,3 +17,35 @@ body
     color: #fff;
     
 }
+
+.penis 
+{
+    font-size: 3.7rem;
+}
+
+.zalupa {font-size: 1.9rem;}
+
+h1 
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p 
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+a 
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+hr 
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.navbar.transparent.navbar-inverse .navbar-inner {
+    background: rgba(0,0,0,0.4);
+ }
